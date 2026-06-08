@@ -1,0 +1,17 @@
+{
+  "wine_type": "white",
+  "n_samples": 4898,
+  "class_balance_good": 0.6652,
+  "baseline_accuracy": 0.8286,
+  "tuned_accuracy": 0.8367,
+  "tuned_roc_auc": 0.8945,
+  "accuracy_improvement": 0.0082,
+  "best_params": {
+    "colsample_bytree": 0.8,
+    "learning_rate": 0.03,
+    "max_depth": 7,
+    "min_child_weight": 1,
+    "n_estimators": 800,
+    "subsample": 0.8
+  }
+}
